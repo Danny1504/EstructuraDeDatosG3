@@ -12,4 +12,4 @@ En este `repositorio` podras encontrar temas reklacionados con `estructuras de d
 8. Metodos de Ordenamiento y Busqueda
 9. Arboles
 
-[Estructura de datos](./img/download.jpg)
+[Estructura de datos](./img/imagen.jpg)
